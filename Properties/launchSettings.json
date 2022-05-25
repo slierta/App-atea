@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "App-atea": {
+      "commandName": "Project",
+      "commandLineArgs": "1 2"
+    }
+  }
+}
